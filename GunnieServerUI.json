@@ -1,5 +1,6 @@
 {
-    "settings": {
+    "Gunnies": {
+        "settings": {
         "OpenButton": 0,
         "HideIcon": false,
         "HideIconAfter": 60,
