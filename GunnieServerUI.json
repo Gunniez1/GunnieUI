@@ -10,25 +10,25 @@
         "OpenOnStart": false,
         "OpenOnStartOnlyNewPlayers": true,
         "UpdateInterval": 12
-      },
+    },
     "tabs": [
-      {
-        "tab1": {
-          "layout": 1,
-          "buttontext": "INFO",
-          "title1": "Server Rates",
-          "text1": "Griffins are only fliers\nXP - 2x\nTaming - 8x\nHarvest - 6x\nNo Mating CD\nEgg Hatch - 85x\nMature Speed - 95x\nMultiple QOL mods\n150 Max Level Wilds..180 Max Shiny Level\nNo structure damage\nCave flying enabled",
-          "imageurl": "https://i.imgur.com/mGt3cAF.png"
+        {
+            "tab1": {
+                "layout": 1,
+                "buttontext": "INFO",
+                "title1": "Server Rates",
+                "text1": "Griffins are only fliers\nXP - 2x\nTaming - 8x\nHarvest - 6x\nNo Mating CD\nEgg Hatch - 85x\nMature Speed - 95x\nMultiple QOL mods\n150 Max Level Wilds..180 Max Shiny Level\nNo structure damage\nCave flying enabled",
+                "imageurl": "https://i.imgur.com/mGt3cAF.png"
+            }
         }
-      }
     ],
-        "links": [
-      {
-        "link1": {
-          "text": "Link to Discord",
-          "url": "https://discord.gg/6j647NRZvk"
+    "links": [
+        {
+            "link1": {
+                "text": "Link to Discord",
+                "url": "https://discord.gg/6j647NRZvk"
+            }
         }
-      }
     ]
 }
 
