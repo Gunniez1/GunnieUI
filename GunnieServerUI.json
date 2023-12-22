@@ -22,7 +22,11 @@
         }
       }
     ],
+        "links": [
+      {
         "link1": {
           "text": "Link to Discord",
           "url": "https://discord.gg/6j647NRZvk"
         }
+      }
+    ]
