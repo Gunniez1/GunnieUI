@@ -1,35 +1,46 @@
 {
-    "Gunnies": {
-        "settings": {
-            "OpenButton": 0,
-            "HideIcon": false,
-            "HideIconAfter": 60,
-            "IconURL": "https://i.imgur.com/OZ6xOjY.png",
-            "DisableIconText": false,
-            "IconPosition": 2,
-            "IconTextColor": 0,
-            "OpenOnStart": false,
-            "OpenOnStartOnlyNewPlayers": true,
-            "UpdateInterval": 12
-        },
-        "tabs": [
-            {
-                "tab1": {
-                    "layout": 1,
-                    "buttontext": "INFO",
-                    "title1": "Server Rates",
-                    "text1": "Griffins are only fliers\nXP - 2x\nTaming - 8x\nHarvest - 6x\nNo Mating CD\nEgg Hatch - 85x\nMature Speed - 95x\nMultiple QOL mods\n150 Max Level Wilds..180 Max Shiny Level\nNo structure damage\nCave flying enabled",
-                    "imageurl": "https://i.imgur.com/mGt3cAF.png"
-                }
-            }
-        ],
-        "links": [
-            {
-                "link1": {
-                    "text": "Link to Discord",
-                    "url": "https://discord.gg/6j647NRZvk"
-                }
-            }
-        ]
-    }
+  "Gunnies": {
+    "settings": {
+        "OpenButton": 0,
+        "HideIcon": false,
+        "HideIconAfter": 60,
+        "IconURL": "https://i.imgur.com/OZ6xOjY.png",
+        "DisableIconText": false,
+        "IconPosition": 2,
+        "IconTextColor": 0,
+        "OpenOnStart": true,
+        "OpenOnStartOnlyNewPlayers": true,
+        "UpdateInterval": 12
+      },
+    "tabs": [
+      {
+        "tab1": {
+          "layout": 1,
+          "buttontext": "Welcome",
+          "title1": "Thanks for Checking out the Server",
+          "text1": "Feel free to reach out to admins for assistance. Please use the Discord button to join us. There are starter packs.",
+          "imageurl": ""
+        }
+      },
+      {
+        "tab2": {
+          "layout": 2,
+          "buttontext": "Server Rates",
+          "title1": "Settings:",
+          "text1": "",
+          "title2": "",
+          "text2": "",
+          "imageurl": ""
+        }
+      }
+    ],
+    "links": [
+      {
+        "link1": {
+          "text": "Discord",
+          "url": "https://discord.com/invite/K7NyrTV"
+        }
+      }
+    ]
+  }
 }
