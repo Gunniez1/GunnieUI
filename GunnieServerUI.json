@@ -1,5 +1,5 @@
 {
-  "Gunnies": {
+  "WBUI2": {
     "settings": {
         "OpenButton": 0,
         "HideIcon": false,
@@ -17,20 +17,20 @@
         "tab1": {
           "layout": 1,
           "buttontext": "Welcome",
-          "title1": "Thanks for Checking out the Server",
-          "text1": "Feel free to reach out to admins for assistance. Please use the Discord button to join us. There are starter packs.",
-          "imageurl": ""
+          "title1": "",
+          "text1": "",
+          "imageurl": "https://i.imgur.com/mGt3cAF.png"
         }
       },
       {
         "tab2": {
           "layout": 2,
-          "buttontext": "Server Rates",
-          "title1": "Settings:",
+          "buttontext": "Settings",
+          "title1": "",
           "text1": "",
           "title2": "",
           "text2": "",
-          "imageurl": ""
+          "imageurl": "https://i.imgur.com/mGt3cAF.png"
         }
       }
     ],
@@ -38,7 +38,43 @@
       {
         "link1": {
           "text": "Discord",
-          "url": "https://discord.com/invite/K7NyrTV"
+          "url": "https://discord.com/invite/6j647NRZvk"
+        }
+      },
+      {
+        "link2": {
+          "text": "",
+          "url": ""
+        }
+      },
+      {
+        "link3": {
+          "text": "",
+          "url": ""
+        }
+      },
+      {
+        "link4": {
+          "text": "",
+          "url": ""
+        }
+      },
+      {
+        "link5": {
+          "text": "",
+          "url": ""
+        }
+      },
+      {
+        "link6": {
+          "text": "",
+          "url": ""
+        }
+      },
+      {
+        "link7": {
+          "text": "",
+          "url": ""
         }
       }
     ]
