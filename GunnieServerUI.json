@@ -47,7 +47,7 @@
 "intervalSeconds": 0.00,
 "alternateItemChance": 0.00,
 "items": [
-"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Oil.PrimalItemResource_Oil'"
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Chitin.PrimalItemResource_Chitin'"
 ],
 "alternateItems": [
 
@@ -58,7 +58,7 @@
 "intervalSeconds": 0.00,
 "alternateItemChance": 0.00,
 "items": [
-"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Chitin.PrimalItemResource_Chitin'"
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Oil.PrimalItemResource_Oil'"
 ],
 "alternateItems": [
 
@@ -66,27 +66,24 @@
 }
 
 ]},
-{"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Mammoth/Mammoth_Character_BP.Mammoth_Character_BP'", 
-"produces":[
-{
-"intervalSeconds": 0.00,
-"alternateItemChance": 0.00,
-"items": [
-"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Electronics.PrimalItemResource_Electronics'"
-],
-"alternateItems": [
-
-]
-}
-
-]},
-{"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Bee/Bee_Queen_Character_BP.Bee_Queen_Character_BP'", 
+{"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Direbear/Direbear_Character_BP.Direbear_Character_BP'", 
 "produces":[
 {
 "intervalSeconds": 0.00,
 "alternateItemChance": 0.00,
 "items": [
 "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Honey.PrimalItemConsumable_Honey'"
+],
+"alternateItems": [
+
+]
+}
+,
+{
+"intervalSeconds": 0.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Sap.PrimalItemResource_Sap'"
 ],
 "alternateItems": [
 
@@ -101,6 +98,20 @@
 "alternateItemChance": 0.00,
 "items": [
 "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Polymer_Organic.PrimalItemResource_Polymer_Organic'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Basilosaurus/Basilosaurus_Character_BP.Basilosaurus_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 0.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl'"
 ],
 "alternateItems": [
 
