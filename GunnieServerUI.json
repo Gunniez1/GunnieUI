@@ -1,82 +1,114 @@
+{"production": [
+{"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP'", 
+"produces":[
 {
-  "WBUI2": {
-    "settings": {
-        "OpenButton": 0,
-        "HideIcon": false,
-        "HideIconAfter": 60,
-        "IconURL": "https://i.imgur.com/Vqvxzky.png",
-        "DisableIconText": false,
-        "IconPosition": 2,
-        "IconTextColor": 1,
-        "OpenOnStart": false,
-        "OpenOnStartOnlyNewPlayers": true,
-        "UpdateInterval": 12
-      },
-    "tabs": [
-      {
-        "tab1": {
-          "layout": 1,
-          "buttontext": "Welcome",
-          "title1": "Welcome to Gunnies Svart Server",
-          "text1": "Server rates are boosted but not too crazy.\n\nPlease reach out for an Admin for starters.\n\nPlease use the tab below to join our Discord.",
-          "imageurl": ""
-        }
-      },
-      {
-        "tab2": {
-          "layout": 2,
-          "buttontext": "Settings",
-          "title1": "Server Rates",
-          "text1": "Griffins are only fliers\n\nXP - 2x\n\nTaming - 8x\n\nHarvest - 6x\n\nNo mating CD\n\nEgg Hatch - 85x\n\nMature Speed - 95x\n\nMultiple QOL mods\n\n150 Max Level Wilds\n\nNo structure damage\n\nCave flying enabled\n\nEngram points boosted to give all engrams",
-          "title2": "Current Admin List",
-          "text2": "Owner - Gunnie\n\nAdmin - Darkscarlett",
-          "imageurl": ""
-        }
-      }
-    ],
-    "links": [
-      {
-        "link1": {
-          "text": "Discord",
-          "url": "https://discord.com/invite/6j647NRZvk"
-        }
-      },
-      {
-        "link2": {
-          "text": "",
-          "url": ""
-        }
-      },
-      {
-        "link3": {
-          "text": "",
-          "url": ""
-        }
-      },
-      {
-        "link4": {
-          "text": "",
-          "url": ""
-        }
-      },
-      {
-        "link5": {
-          "text": "",
-          "url": ""
-        }
-      },
-      {
-        "link6": {
-          "text": "",
-          "url": ""
-        }
-      },
-      {
-        "link7": {
-          "text": "",
-          "url": ""
-        }
-      }
-    ]
-  }
+"intervalSeconds": 0.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/Dinos/Achatina/PrimalItemResource_SnailPaste.PrimalItemResource_SnailPaste'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Anglerfish/Angler_Character_BP.Angler_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 0.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Sheep/Sheep_Character_BP.Sheep_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 0.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Crystal.PrimalItemResource_Crystal'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Toad/Toad_Character_BP.Toad_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 0.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Oil.PrimalItemResource_Oil'"
+],
+"alternateItems": [
+
+]
+}
+,
+{
+"intervalSeconds": 0.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Chitin.PrimalItemResource_Chitin'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Mammoth/Mammoth_Character_BP.Mammoth_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 0.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Electronics.PrimalItemResource_Electronics'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Bee/Bee_Queen_Character_BP.Bee_Queen_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 0.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Honey.PrimalItemConsumable_Honey'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Kairuku/Kairuku_Character_BP.Kairuku_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 0.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Polymer_Organic.PrimalItemResource_Polymer_Organic'"
+],
+"alternateItems": [
+
+]
+}
+
+]}
+
+
+]
 }
